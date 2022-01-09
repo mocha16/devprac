@@ -1,3 +1,7 @@
 "this is mergeconflict demo" 
+<<<<<<< HEAD
 
 change1 copy- done through desktop file explorer 
+
+updating file after merge conflict....change by github user and file explorer user
+
