@@ -1,1 +1,3 @@
 "this is mergeconflict demo" 
+
+change1 copy- done through desktop file explorer 
